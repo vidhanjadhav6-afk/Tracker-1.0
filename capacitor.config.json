@@ -1,0 +1,15 @@
+{
+  "appId": "com.vidhan.dualtrack",
+  "appName": "Dual-Track",
+  "webDir": "www",
+  "backgroundColor": "#0B1120",
+  "android": {
+    "backgroundColor": "#0B1120"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#2563EB"
+    }
+  }
+}
